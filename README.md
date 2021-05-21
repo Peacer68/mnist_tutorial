@@ -22,3 +22,16 @@ Code tested on following environments, other version should also work:
 
 # For students from SJTU
 Please read [HEAR](EE369.md).
+
+# Experiment Result
+Q1: Training accuracy: 93.20%
+    Testing accuracy: 88.70%
+Q2: Training accuracy: 81.80%
+    Testing accuracy: 81.40%
+Q3: Training accuracy: 98.00%
+    Testing accuracy: 83.20%
+Q4: Training accuracy: 98.10%
+    Testing accuracy: 94.10%
+Q5: Final result : train accuracy: 99.38%
+    Final result : test accuracy: 98.66%
+
